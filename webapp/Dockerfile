@@ -1,5 +1,5 @@
 # Pull base Image
-FROM tomcat:9.0.33-jdk8
+FROM tomcat:8-jre8
 
 # MAINTAINER
 MAINTAINER "Rajkumar Vijayakumar"
