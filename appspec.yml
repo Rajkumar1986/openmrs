@@ -1,0 +1,7 @@
+version: 0.0
+os: linux
+files:
+   - source: /webapp/target/openmrs.war
+     destination: /usr/local/tomcat/webapps
+     
+
